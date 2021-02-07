@@ -69,6 +69,8 @@ sd(airquality$Ozone,na.rm = T)
 #kurtosis
 #Density plot
 
+#Practice it
+
 
 
 
